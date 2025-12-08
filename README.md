@@ -1,7 +1,7 @@
 # NLPFundamentals
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/your-username/nlp-course-labs)
 
-## Demo - Modeling
+## Demo - Modeling for lab 2
 https://claude.ai/public/artifacts/aa7a203c-dc5a-474b-96f6-9ebf10195f0d
 
 ## Classification Metrics demo for lab 3
